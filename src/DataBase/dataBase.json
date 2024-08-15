@@ -1,0 +1,218 @@
+[
+    {
+        "id": 1,
+        "name": "Camiseta Básica Blanca",
+        "description": "Camiseta de algodón 100% en color blanco.",
+        "price": 19.99,
+        "category": "Camisetas",
+        "inStock": true,
+        "imageURL": "/images/camiseta_basica_blanca.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Camiseta Estampada Vintage",
+        "description": "Camiseta con estampado de estilo vintage.",
+        "price": 24.99,
+        "category": "Camisetas",
+        "inStock": true,
+        "imageURL": "/images/camiseta_estampada_vintage.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Camiseta Polo Azul",
+        "description": "Camiseta tipo polo en color azul marino.",
+        "price": 29.99,
+        "category": "Camisetas",
+        "inStock": false,
+        "imageURL": "/images/camiseta_polo_azul.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Camiseta de Manga Larga",
+        "description": "Camiseta de manga larga en color gris oscuro.",
+        "price": 24.99,
+        "category": "Camisetas",
+        "inStock": true,
+        "imageURL": "/images/camiseta_de_manga_larga.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Cartera de Cuero Marrón",
+        "description": "Cartera de cuero genuino con detalles dorados.",
+        "price": 79.99,
+        "category": "Carteras",
+        "inStock": true,
+        "imageURL": "/images/cartera_de_cuero_marron.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Cartera de Mano Roja",
+        "description": "Cartera pequeña de mano en color rojo vibrante.",
+        "price": 49.99,
+        "category": "Carteras",
+        "inStock": false,
+        "imageURL": "/images/cartera_de_mano_roja.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Cartera de Mano Negra",
+        "description": "Cartera elegante de mano en color negro.",
+        "price": 59.99,
+        "category": "Carteras",
+        "inStock": true,
+        "imageURL": "/images/cartera_de_mano_negra.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Cartera Cruzada Azul",
+        "description": "Cartera cruzada compacta en color azul marino.",
+        "price": 39.99,
+        "category": "Carteras",
+        "inStock": true,
+        "imageURL": "/images/cartera_cruzada_azul.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Zapatillas Deportivas Negras",
+        "description": "Calzado deportivo ligero y cómodo en color negro.",
+        "price": 49.99,
+        "category": "Calzados",
+        "inStock": true,
+        "imageURL": "/images/zapatillas_deportivas_negras.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Botas de Cuero Marrón",
+        "description": "Botas de cuero resistentes con suela antideslizante.",
+        "price": 99.99,
+        "category": "Calzados",
+        "inStock": true,
+        "imageURL": "/images/botas_de_cuero_marron.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Zapatillas Running",
+        "description": "Zapatillas ligeras y transpirables para correr.",
+        "price": 69.99,
+        "category": "Calzados",
+        "inStock": false,
+        "imageURL": "/images/zapatillas_running.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Sandalias de Cuero",
+        "description": "Sandalias de cuero marrón con suela acolchada.",
+        "price": 39.99,
+        "category": "Calzados",
+        "inStock": true,
+        "imageURL": "/images/sandalias_de_cuero.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Pantalones Jeans Clásicos",
+        "description": "Jeans de corte clásico en color azul oscuro.",
+        "price": 39.99,
+        "category": "Pantalones",
+        "inStock": false,
+        "imageURL": "/images/pantalones_jeans_clasicos.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Pantalones Cargo Verdes",
+        "description": "Pantalones cargo con múltiples bolsillos en color verde.",
+        "price": 44.99,
+        "category": "Pantalones",
+        "inStock": true,
+        "imageURL": "/images/pantalones_cargo_verdes.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Pantalones de Vestir Negros",
+        "description": "Pantalones de vestir de corte ajustado en color negro.",
+        "price": 49.99,
+        "category": "Pantalones",
+        "inStock": true,
+        "imageURL": "/images/pantalones_de_vestir_negros.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Pantalones Chinos Beige",
+        "description": "Pantalones chinos de corte regular en color beige.",
+        "price": 39.99,
+        "category": "Pantalones",
+        "inStock": true,
+        "imageURL": "/images/pantalones_chinos_beige.jpg"
+    },
+    {
+        "id": 17,
+        "name": "Abrigo de Lana Gris",
+        "description": "Abrigo largo de lana en color gris con botones.",
+        "price": 129.99,
+        "category": "Abrigos",
+        "inStock": true,
+        "imageURL": "/images/abrigo_de_lana_gris.jpg"
+    },
+    {
+        "id": 18,
+        "name": "Abrigo Acolchado Negro",
+        "description": "Abrigo acolchado y resistente al agua en color negro.",
+        "price": 149.99,
+        "category": "Abrigos",
+        "inStock": true,
+        "imageURL": "/images/abrigo_acolchado_negro.jpg"
+    },
+    {
+        "id": 19,
+        "name": "Abrigo Trench Beige",
+        "description": "Abrigo trench clásico en color beige.",
+        "price": 119.99,
+        "category": "Abrigos",
+        "inStock": true,
+        "imageURL": "/images/abrigo_trench_beige.jpg"
+    },
+    {
+        "id": 20,
+        "name": "Chaqueta de Cuero Negra",
+        "description": "Chaqueta de cuero genuino en color negro.",
+        "price": 199.99,
+        "category": "Abrigos",
+        "inStock": false,
+        "imageURL": "/images/chaqueta_de_cuero_negra.jpg"
+    },
+    {
+        "id": 21,
+        "name": "Gafas de Sol Clásicas",
+        "description": "Gafas de sol con montura negra y lentes oscuros.",
+        "price": 59.99,
+        "category": "Gafas",
+        "inStock": true,
+        "imageURL": "/images/gafas_de_sol_clasicas.jpg"
+    },
+    {
+        "id": 22,
+        "name": "Gafas de Lectura",
+        "description": "Gafas de lectura con montura ligera.",
+        "price": 29.99,
+        "category": "Gafas",
+        "inStock": true,
+        "imageURL": "/images/gafas_de_lectura.jpg"
+    },
+    {
+        "id": 23,
+        "name": "Gafas de Sol Redondas",
+        "description": "Gafas de sol con lentes redondas y montura dorada.",
+        "price": 69.99,
+        "category": "Gafas",
+        "inStock": false,
+        "imageURL": "/images/gafas_de_sol_redondas.jpg"
+    },
+    {
+        "id": 24,
+        "name": "Gafas Deportivas",
+        "description": "Gafas deportivas con lentes polarizadas.",
+        "price": 89.99,
+        "category": "Gafas",
+        "inStock": true,
+        "imageURL": "/images/gafas_deportivas.jpg"
+    }
+]
