@@ -1,8 +1,21 @@
-# React + Vite
+Este es un proyecto de una tienda de ropa en React que incluye una funcionalidad de filtrado y ordenamiento de productos. El proyecto utiliza datos de productos en formato JSON y permite a los usuarios filtrar y ordenar productos a través de un componente de navegación.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Estructura del Proyecto
 
-Currently, two official plugins are available:
+- `src/`
+  - `components/`
+    - `Cartas.jsx` - Componente para mostrar información del producto.
+    - `NavBar.jsx` - Componente de barra de navegación con opciones de filtrado y ordenamiento.
+    - `ProductFilter.jsx` - Componente para aplicar filtros y ordenamientos a los productos.
+  - `DataBase/`
+    - `dataBase.json` - Archivo JSON con los datos de productos.
+  - `App.js` - Componente principal de la aplicación.
+  - `index.js` - Punto de entrada de la aplicación.
+  - `styles.css` - Archivo de estilos CSS.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Instalación
+
+1. **Clona el repositorio:**
+
+   ```bash
+   git clone https://github.com/tu_usuario/tu_repositorio.git
