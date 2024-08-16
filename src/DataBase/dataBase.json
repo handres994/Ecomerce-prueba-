@@ -147,7 +147,7 @@
         "id": 17,
         "name": "Abrigo de Lana Gris",
         "description": "Abrigo largo de lana en color gris con botones.",
-        "price": 129.99,
+        "price": 29.99,
         "category": "Abrigos",
         "inStock": true,
         "imageURL": "/images/abrigo_de_lana_gris.jpg"
@@ -156,7 +156,7 @@
         "id": 18,
         "name": "Abrigo Acolchado Negro",
         "description": "Abrigo acolchado y resistente al agua en color negro.",
-        "price": 149.99,
+        "price": 49.99,
         "category": "Abrigos",
         "inStock": true,
         "imageURL": "/images/abrigo_acolchado_negro.jpg"
@@ -165,7 +165,7 @@
         "id": 19,
         "name": "Abrigo Trench Beige",
         "description": "Abrigo trench clásico en color beige.",
-        "price": 119.99,
+        "price": 19.99,
         "category": "Abrigos",
         "inStock": true,
         "imageURL": "/images/abrigo_trench_beige.jpg"
@@ -174,7 +174,7 @@
         "id": 20,
         "name": "Chaqueta de Cuero Negra",
         "description": "Chaqueta de cuero genuino en color negro.",
-        "price": 199.99,
+        "price": 99.99,
         "category": "Abrigos",
         "inStock": false,
         "imageURL": "/images/chaqueta_de_cuero_negra.jpg"

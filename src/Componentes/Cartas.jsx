@@ -12,7 +12,7 @@ function Cartas({ img, nombre, descripcion, precio, categoria }) {
           <span class="badge rounded-pill text-bg-dark">{categoria}</span>
           <p className="card-text">{descripcion}</p>
           <p>{precio}</p>
-          <a href="#" className="btn btn-outline-dark bi bi-cart3">Agregar Carrito</a>
+          <a href="#" className="btn btn-outline-dark" >Agregar Carrito</a>
         </div>
       </div>
     </div>
