@@ -6,8 +6,8 @@ import Footer from './Componentes/Footer'
 function App() {
   return (
     <>
-      <FiltroProductoNav /> {FiltroProductoNav}
-      <Footer /> {Footer}
+      <FiltroProductoNav/>
+      <Footer />
     </>
   );
 }
