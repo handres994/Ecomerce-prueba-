@@ -77,7 +77,7 @@ function NavBar({ onFilter }) {
                 <div className="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul className="navbar-nav me-auto mb-2 mb-lg-0">
                         <li className="nav-item">
-                            <div className="form-check form-switch form-check-reverse text-white margen">
+                            <div className="form-check form-switch form-check-reverse text-white mt-2">
                                 <input className="form-check-input" type="checkbox" id="flexSwitchCheckReverse" checked={inStock} onChange={(e) => setInStock(e.target.checked)} />
                                 <label className="form-check-label" htmlFor="flexSwitchCheckReverse">Stock</label>
                             </div>

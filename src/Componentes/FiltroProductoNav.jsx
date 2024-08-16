@@ -9,7 +9,7 @@ function FiltroProductoNav() {
     <>
       <NavBar onFilter={setFilteredData} />
 
-      <div className="container row mx-auto">
+      <div className="container row mx-auto mt-4">
         {filteredData.map((producto) => (
           <Cartas
             key={producto.id}
